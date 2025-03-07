@@ -12,6 +12,13 @@ The U.S. federal government declared a national emergency on March 13, 2020 from
 ## Project Aim
 This project aims to explore how physical inactivity and poor mental health impact obesity prevalence over time and how these relationships vary across different census tracts in Philadelphia from 2018 to 2022.
 
+## Outline of the Script
+
+* Descriptive statistics
+* Visualization
+* GEE Model
+* Model Diagnostics
+  
 ## Methods
 
 ### Model
